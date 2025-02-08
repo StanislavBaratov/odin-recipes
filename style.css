@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(253, 249, 223);
+}
+
+h1, 
+li,
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0px;
+}
+
+h1 {
+    font-size: 42px;
+    font-weight: 700;
+}
+
+ul {
+    margin: 10px 0px;
+}
+.content {
+    background-color: #fff;
+    margin: 20px auto;
+    width: 80%;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 0px;
+    box-shadow: 2px 2px 4px 1px #00000060;
+}
+
+#header {
+    text-align: center;
+}
+
+#enjoy {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+
